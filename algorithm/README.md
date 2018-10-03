@@ -22,6 +22,8 @@
     * https://www.acmicpc.net/problem/10799    
 * [스택](10828/Main.java)
     * https://www.acmicpc.net/problem/10828
+* [쉬운 계단 수](10844/Main.java)
+    * https://www.acmicpc.net/problem/10844    
 * [큐](10845/Main.java)
     * https://www.acmicpc.net/problem/10845
 * [덱](10866/Main.java)
