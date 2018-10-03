@@ -12,6 +12,8 @@
     * https://www.acmicpc.net/problem/1406        
 * [1로 만들기](1463/Main.java)
     * https://www.acmicpc.net/problem/1463
+* [포도주 시식](2156/Main.java)
+    * https://www.acmicpc.net/problem/2156    
 * [이친수](2193/Main.java)
     * https://www.acmicpc.net/problem/2193        
 * [피보나치 수](2747/Main.java)
