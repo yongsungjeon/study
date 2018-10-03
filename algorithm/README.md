@@ -9,7 +9,9 @@
 * [에디터](1406/Main.java)
     * https://www.acmicpc.net/problem/1406        
 * [1로 만들기](1463/Main.java)
-    * https://www.acmicpc.net/problem/1463    
+    * https://www.acmicpc.net/problem/1463
+* [이친수](2193/Main.java)
+    * https://www.acmicpc.net/problem/2193        
 * [피보나치 수](2747/Main.java)
     * https://www.acmicpc.net/problem/2747
 * [괄호](9012/Main.java)
