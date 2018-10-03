@@ -3,7 +3,11 @@
 * [A+B](1000/Main.java)
     * https://www.acmicpc.net/problem/1000
 * [A-B](1001/Main.java)
-    * https://www.acmicpc.net/problem/1001    
+    * https://www.acmicpc.net/problem/1001
+* [조세퍼스 문제](1158/Main.java)
+    * https://www.acmicpc.net/problem/1158    
+* [에디터](1406/Main.java)
+    * https://www.acmicpc.net/problem/1406        
 * [1로 만들기](1463/Main.java)
     * https://www.acmicpc.net/problem/1463    
 * [피보나치 수](2747/Main.java)
@@ -15,7 +19,11 @@
 * [쇠막대기](10799/Main.java)
     * https://www.acmicpc.net/problem/10799    
 * [스택](10828/Main.java)
-    * https://www.acmicpc.net/problem/10828        
+    * https://www.acmicpc.net/problem/10828
+* [큐](10845/Main.java)
+    * https://www.acmicpc.net/problem/10845
+* [덱](10866/Main.java)
+    * https://www.acmicpc.net/problem/10866                
 * [피보나치 수 5](10870/Main.java)
     * https://www.acmicpc.net/problem/10870
 * [A+B - 3](10950/Main.java)
