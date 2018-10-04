@@ -5,41 +5,7 @@ import java.io.InputStreamReader;
  * top-down
  */
 public class Main {
-    private static long[][] dp;
-    private static int mod = 1000000000;
 
-    public static void main(String[] args) throws Exception {
-        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
-        int num = Integer.parseInt(br.readLine());
-        long sum = 0;
-        dp = new long[num + 1][10];
-
-        for (int i = 1; i < 10; i++) {
-            sum += pibonacci(num, i);
-        }
-
-        System.out.println(sum % mod);
-    }
-
-    private static long pibonacci(int num, int digit) {
-        if (num == 1) {
-            return 1;
-        }
-
-        if (dp[num][digit] > 0) {
-            return dp[num][digit];
-        }
-
-        if (digit == 0) {
-            dp[num][digit] = pibonacci(num - 1, digit + 1) % mod;
-        } else if (digit == 9) {
-            dp[num][digit] = pibonacci(num - 1, digit - 1) % mod;
-        } else {
-            dp[num][digit] = (pibonacci(num - 1, digit - 1) + pibonacci(num - 1, digit + 1)) % mod;
-        }
-
-        return dp[num][digit];
-    }
 }
 
 /**
