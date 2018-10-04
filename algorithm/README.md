@@ -68,7 +68,11 @@
 * [쉬운 계단 수](dp/10844/Main.java)
     * https://www.acmicpc.net/problem/10844    
 * [가장 긴 증가하는 부분 수열](dp/11053/Main.java)
-    * https://www.acmicpc.net/problem/11053    
+    * https://www.acmicpc.net/problem/11053
+* [가장 큰 증가하는 부분 수열](dp/11055/Main.java)
+    * https://www.acmicpc.net/problem/11055    
+* [가장 긴 감소하는 부분 수열](dp/11722/Main.java)
+    * https://www.acmicpc.net/problem/11722        
 * [2×n 타일링](dp/11726/Main.java)
     * https://www.acmicpc.net/problem/11726
 * [2×n 타일링 2](dp/11727/Main.java)
