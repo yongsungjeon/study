@@ -1,68 +1,90 @@
-# Summary
-
+# Sumarry
 * users: https://www.acmicpc.net/user/specialys
 
-* [A+B](1000/Main.java)
+## 출력
+* [A+B](output/1000/Main.java)
     * https://www.acmicpc.net/problem/1000
-* [A-B](1001/Main.java)
+* [A-B](output/1001/Main.java)
     * https://www.acmicpc.net/problem/1001
-* [조세퍼스 문제](1158/Main.java)
-    * https://www.acmicpc.net/problem/1158    
-* [에디터](1406/Main.java)
-    * https://www.acmicpc.net/problem/1406        
-* [1로 만들기](1463/Main.java)
-    * https://www.acmicpc.net/problem/1463
-* [포도주 시식](2156/Main.java)
-    * https://www.acmicpc.net/problem/2156    
-* [이친수](2193/Main.java)
-    * https://www.acmicpc.net/problem/2193        
-* [피보나치 수](2747/Main.java)
-    * https://www.acmicpc.net/problem/2747
-* [괄호](9012/Main.java)
-    * https://www.acmicpc.net/problem/9012
-* [스티커](9465/Main.java)
-    * https://www.acmicpc.net/problem/9465        
-* [1, 2, 3 더하기](9095/Main.java)
-    * https://www.acmicpc.net/problem/9095
-* [쇠막대기](10799/Main.java)
-    * https://www.acmicpc.net/problem/10799    
-* [스택](10828/Main.java)
-    * https://www.acmicpc.net/problem/10828
-* [쉬운 계단 수](10844/Main.java)
-    * https://www.acmicpc.net/problem/10844    
-* [큐](10845/Main.java)
-    * https://www.acmicpc.net/problem/10845
-* [덱](10866/Main.java)
-    * https://www.acmicpc.net/problem/10866                
-* [피보나치 수 5](10870/Main.java)
-    * https://www.acmicpc.net/problem/10870
-* [A+B - 3](10950/Main.java)
+* [Hello World](output/2557/Main.java)
+    * https://www.acmicpc.net/problem/2557
+* [A+B - 3](output/10950/Main.java)
     * https://www.acmicpc.net/problem/10950
-* [A+B - 4](10951/Main.java)
+* [A+B - 4](output/10951/Main.java)
     * https://www.acmicpc.net/problem/10951
-* [A+B - 5](10952/Main.java)
+* [A+B - 5](output/10952/Main.java)
     * https://www.acmicpc.net/problem/10952
-* [A+B - 6](10953/Main.java)
+* [A+B - 6](output/10953/Main.java)
     * https://www.acmicpc.net/problem/10953
-* [A+B - 7](11021/Main.java)
+* [A+B - 7](output/11021/Main.java)
     * https://www.acmicpc.net/problem/11021
-* [A+B - 8](11022/Main.java)
-    * https://www.acmicpc.net/problem/11022
-* [카드 구매하기](11052/Main.java)
-    * https://www.acmicpc.net/problem/11052
-* [오르막 수](11057/Main.java)
-    * https://www.acmicpc.net/problem/11057        
-* [그대로 출력하기](11718/Main.java)
+* [A+B - 8](output/11022/Main.java)
+    * https://www.acmicpc.net/problem/11022    
+* [그대로 출력하기](output/11718/Main.java)
     * https://www.acmicpc.net/problem/11718
-* [그대로 출력하기 2](11719/Main.java)
+* [그대로 출력하기 2](output/11719/Main.java)
     * https://www.acmicpc.net/problem/11719
-* [숫자의 합](11720/Main.java)
+* [숫자의 합](output/11720/Main.java)
     * https://www.acmicpc.net/problem/11720
-* [열 개씩 끊어 출력하기](11721/Main.java)
-    * https://www.acmicpc.net/problem/11721                
-* [2×n 타일링](11726/Main.java)
+* [열 개씩 끊어 출력하기](output/11721/Main.java)
+    * https://www.acmicpc.net/problem/11721    
+
+## 스택
+* [괄호](stack/9012/Main.java)
+    * https://www.acmicpc.net/problem/9012
+* [스택](stack/10828/Main.java)
+    * https://www.acmicpc.net/problem/10828
+* [쇠막대기](stack/10799/Main.java)
+    * https://www.acmicpc.net/problem/10799
+    
+## 링크드리스트
+* [조세퍼스 문제](linked/1158/Main.java)
+    * https://www.acmicpc.net/problem/1158       
+* [에디터](linked/1406/Main.java)
+    * https://www.acmicpc.net/problem/1406     
+
+## 큐
+* [큐](queue/10845/Main.java)
+    * https://www.acmicpc.net/problem/10845
+    
+## 덱    
+* [덱](deck/10866/Main.java)
+    * https://www.acmicpc.net/problem/10866                
+
+
+## 다이나믹 프로그래밍
+* [1로 만들기](dp/1463/Main.java)
+    * https://www.acmicpc.net/problem/1463
+* [포도주 시식](dp/2156/Main.java)
+    * https://www.acmicpc.net/problem/2156    
+* [이친수](dp/2193/Main.java)
+    * https://www.acmicpc.net/problem/2193
+* [계단 오르기](dp/2579/Main.java)
+    * https://www.acmicpc.net/problem/2579        
+* [1, 2, 3 더하기](dp/9095/Main.java)
+    * https://www.acmicpc.net/problem/9095
+* [스티커](dp/9465/Main.java)
+    * https://www.acmicpc.net/problem/9465    
+* [쉬운 계단 수](dp/10844/Main.java)
+    * https://www.acmicpc.net/problem/10844    
+* [가장 긴 증가하는 부분 수열](dp/11053/Main.java)
+    * https://www.acmicpc.net/problem/11053    
+* [2×n 타일링](dp/11726/Main.java)
     * https://www.acmicpc.net/problem/11726
-* [2×n 타일링 2](11727/Main.java)
+* [2×n 타일링 2](dp/11727/Main.java)
     * https://www.acmicpc.net/problem/11727
+* [카드 구매하기](dp/11052/Main.java)
+    * https://www.acmicpc.net/problem/11052
+* [오르막 수](dp/11057/Main.java)
+    * https://www.acmicpc.net/problem/11057
+
+## ETC
+* [피보나치 수](etc/2747/Main.java)
+    * https://www.acmicpc.net/problem/2747
+* [피보나치 수 5](etc/10870/Main.java)
+    * https://www.acmicpc.net/problem/10870
+
+                       
+
         
       
