@@ -4,7 +4,9 @@ import java.io.InputStreamReader;
 /**
  * top-down
  */
+public class Main {
 
+}
 
 /**
  * bottom-up
@@ -15,28 +17,23 @@ public class Main {
         int num = Integer.parseInt(br.readLine());
         int[] a = new int[num];
         int[] d = new int[num];
-        int min = 0;
-
+        int max = 0;
         String[] array = br.readLine().split(" ");
 
         for (int i = 0; i < num; i++) {
             a[i] = Integer.parseInt(array[i]);
         }
 
-        for (int i = 0; i < num; i++) {
-            d[i] = 1;
+        d[0] = a[0];
+        max = d[0];
+        for (int i = 1; i < num; i++) {
+            d[i] = Math.max(d[i - 1] + a[i], a[i]);
 
-            for (int j = 0; j < i; j++) {
-                if (a[j] > a[i] && d[i] < d[j] + 1) {
-                    d[i] = d[j] + 1;
-                }
-            }
-
-            if (min > d[i]) {
-                min = d[i];
+            if (max < d[i]) {
+                max = d[i];
             }
         }
 
-        System.out.println(min);
+        System.out.println(max);
     }
 }

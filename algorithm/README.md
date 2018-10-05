@@ -55,6 +55,10 @@
 ## 다이나믹 프로그래밍
 * [1로 만들기](dp/1463/Main.java)
     * https://www.acmicpc.net/problem/1463
+* [제곱수의 합](dp/1699/Main.java)
+    * https://www.acmicpc.net/problem/1699    
+* [연속합](dp/1912/Main.java)
+    * https://www.acmicpc.net/problem/1912    
 * [포도주 시식](dp/2156/Main.java)
     * https://www.acmicpc.net/problem/2156    
 * [이친수](dp/2193/Main.java)
@@ -69,6 +73,8 @@
     * https://www.acmicpc.net/problem/10844    
 * [가장 긴 증가하는 부분 수열](dp/11053/Main.java)
     * https://www.acmicpc.net/problem/11053
+* [가장 긴 바이토닉 부분 수열](dp/11054/Main.java)
+    * https://www.acmicpc.net/problem/11054    
 * [가장 큰 증가하는 부분 수열](dp/11055/Main.java)
     * https://www.acmicpc.net/problem/11055    
 * [가장 긴 감소하는 부분 수열](dp/11722/Main.java)

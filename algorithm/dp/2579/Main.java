@@ -59,3 +59,31 @@ public class Main {
         System.out.println(d[num]);
     }
 }
+
+/**
+ * bottom-up 이차원 배열
+ */
+public class Main {
+    public static void main(String[] args) throws Exception {
+        BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
+        int num = Integer.parseInt(br.readLine());
+        int[] a = new int[num + 1];
+        int[][] d = new int[num + 1][3];
+
+        for (int i = 0; i < num; i++) {
+            a[i + 1] = Integer.parseInt(br.readLine());
+        }
+
+        d[1][1] = a[1];
+        d[2][1] = a[2];
+        d[2][2] = d[1][1] + a[2];
+
+
+        for (int i = 2; i <= num; i++) {
+            d[i][1] = Math.max(d[i - 2][1], d[i - 2][2]) + a[i];
+            d[i][2] = d[i - 1][1] + a[i];
+        }
+
+        System.out.println(Math.max(d[num][1], d[num][2]));
+    }
+}
