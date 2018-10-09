@@ -92,9 +92,21 @@
 * [오르막 수](dp/11057/Main.java)
     * https://www.acmicpc.net/problem/11057
 
+## 사칙연산
+* [나머지](ao/10430/Main.java)
+    * https://www.acmicpc.net/problem/10430
+
+## 유클리드 호제
+* [최소공배수](euclidean/1934/Main.java)
+    * https://www.acmicpc.net/problem/1934
+
 ## ETC
+* [최대공약수와 최소공배수](etc/2609/Main.java)
+    * https://www.acmicpc.net/problem/2609
 * [피보나치 수](etc/2747/Main.java)
     * https://www.acmicpc.net/problem/2747
+* [GCD 합](etc/9613/Main.java)
+    * https://www.acmicpc.net/problem/9613    
 * [피보나치 수 5](etc/10870/Main.java)
     * https://www.acmicpc.net/problem/10870
 
