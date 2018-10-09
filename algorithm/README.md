@@ -100,6 +100,14 @@
 * [최소공배수](euclidean/1934/Main.java)
     * https://www.acmicpc.net/problem/1934
 
+## 진법
+* [2진수 8진수](notation/1373/Main.java)
+    * https://www.acmicpc.net/problem/1373
+* [진법 변환](notation/2745/Main.java)
+    * https://www.acmicpc.net/problem/2745
+* [진법 변환 2](notation/11005/Main.java)
+    * https://www.acmicpc.net/problem/11005
+
 ## ETC
 * [최대공약수와 최소공배수](etc/2609/Main.java)
     * https://www.acmicpc.net/problem/2609
@@ -109,6 +117,9 @@
     * https://www.acmicpc.net/problem/9613    
 * [피보나치 수 5](etc/10870/Main.java)
     * https://www.acmicpc.net/problem/10870
+* [Base Conversion](etc/11576/Main.java)
+    * https://www.acmicpc.net/problem/11576
+    
 
                        
 
