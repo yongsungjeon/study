@@ -109,16 +109,28 @@
     * https://www.acmicpc.net/problem/11005
 
 ## ETC
+* [팩토리얼 0의 개수](etc/1676/Main.java)
+    * https://www.acmicpc.net/problem/1675
+* [소수 구하기](etc/1929/Main.java)
+    * https://www.acmicpc.net/problem/1929
+* [소수 찾기](etc/1978/Main.java)
+    * https://www.acmicpc.net/problem/1978
 * [최대공약수와 최소공배수](etc/2609/Main.java)
     * https://www.acmicpc.net/problem/2609
 * [피보나치 수](etc/2747/Main.java)
     * https://www.acmicpc.net/problem/2747
+* [골드바흐의 추측](etc/6588/Main.java)
+    * https://www.acmicpc.net/problem/6588    
 * [GCD 합](etc/9613/Main.java)
     * https://www.acmicpc.net/problem/9613    
 * [피보나치 수 5](etc/10870/Main.java)
     * https://www.acmicpc.net/problem/10870
+* [팩토리얼](etc/10872/Main.java)
+    * https://www.acmicpc.net/problem/10872    
 * [Base Conversion](etc/11576/Main.java)
     * https://www.acmicpc.net/problem/11576
+* [소인수분](etc/11653/Main.java)
+    * https://www.acmicpc.net/problem/11653    
     
 
                        
