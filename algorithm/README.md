@@ -36,7 +36,7 @@
     * https://www.acmicpc.net/problem/10828
 * [쇠막대기](stack/10799/Main.java)
     * https://www.acmicpc.net/problem/10799
-    
+
 ## 링크드리스트
 * [조세퍼스 문제](linked/1158/Main.java)
     * https://www.acmicpc.net/problem/1158       
@@ -46,7 +46,7 @@
 ## 큐
 * [큐](queue/10845/Main.java)
     * https://www.acmicpc.net/problem/10845
-    
+
 ## 덱    
 * [덱](deck/10866/Main.java)
     * https://www.acmicpc.net/problem/10866                
@@ -115,6 +115,8 @@
     * https://www.acmicpc.net/problem/1929
 * [소수 찾기](etc/1978/Main.java)
     * https://www.acmicpc.net/problem/1978
+* [조합 0의 개수](etc/2004/Main.java)
+    * https://www.acmicpc.net/problem/2004    
 * [최대공약수와 최소공배수](etc/2609/Main.java)
     * https://www.acmicpc.net/problem/2609
 * [피보나치 수](etc/2747/Main.java)
@@ -131,9 +133,3 @@
     * https://www.acmicpc.net/problem/11576
 * [소인수분](etc/11653/Main.java)
     * https://www.acmicpc.net/problem/11653    
-    
-
-                       
-
-        
-      
