@@ -1,4 +1,4 @@
-# Sumarry
+# Summary
 * users: https://www.acmicpc.net/user/specialys
 
 ## 출력
@@ -133,5 +133,7 @@
     * https://www.acmicpc.net/problem/10872    
 * [Base Conversion](etc/11576/Main.java)
     * https://www.acmicpc.net/problem/11576
+* [좌표 정렬하기](etc/11650/Main.java)
+    * https://www.acmicpc.net/problem/11650    
 * [소인수분](etc/11653/Main.java)
     * https://www.acmicpc.net/problem/11653    
