@@ -108,6 +108,16 @@
 * [진법 변환 2](notation/11005/Main.java)
     * https://www.acmicpc.net/problem/11005
 
+## 정렬
+* [수 정렬하기 2](sort/2751/Main.java)
+    * https://www.acmicpc.net/problem/2751    
+* [나이순 정렬](sort/10814/Main.java)
+    * https://www.acmicpc.net/problem/10814        
+* [좌표 정렬하기](sort/11650/Main.java)
+    * https://www.acmicpc.net/problem/11650    
+* [좌표 정렬하기2](sort/11651/Main.java)
+    * https://www.acmicpc.net/problem/11651          
+
 ## ETC
 * [팩토리얼 0의 개수](etc/1676/Main.java)
     * https://www.acmicpc.net/problem/1675
@@ -121,8 +131,6 @@
     * https://www.acmicpc.net/problem/2609
 * [피보나치 수](etc/2747/Main.java)
     * https://www.acmicpc.net/problem/2747
-* [수 정렬하기 2](etc/2751/Main.java)
-    * https://www.acmicpc.net/problem/2751    
 * [골드바흐의 추측](etc/6588/Main.java)
     * https://www.acmicpc.net/problem/6588    
 * [GCD 합](etc/9613/Main.java)
@@ -133,7 +141,5 @@
     * https://www.acmicpc.net/problem/10872    
 * [Base Conversion](etc/11576/Main.java)
     * https://www.acmicpc.net/problem/11576
-* [좌표 정렬하기](etc/11650/Main.java)
-    * https://www.acmicpc.net/problem/11650    
-* [소인수분](etc/11653/Main.java)
+* [소인수분해](etc/11653/Main.java)
     * https://www.acmicpc.net/problem/11653    
