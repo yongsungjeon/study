@@ -121,6 +121,8 @@
     * https://www.acmicpc.net/problem/2609
 * [피보나치 수](etc/2747/Main.java)
     * https://www.acmicpc.net/problem/2747
+* [수 정렬하기 2](etc/2751/Main.java)
+    * https://www.acmicpc.net/problem/2751    
 * [골드바흐의 추측](etc/6588/Main.java)
     * https://www.acmicpc.net/problem/6588    
 * [GCD 합](etc/9613/Main.java)
