@@ -113,6 +113,10 @@
     * https://www.acmicpc.net/problem/2751    
 * [나이순 정렬](sort/10814/Main.java)
     * https://www.acmicpc.net/problem/10814        
+* [국영수](sort/10825/Main.java)
+    * https://www.acmicpc.net/problem/10825            
+* [수 정렬하기 3](sort/10989/Main.java)
+    * https://www.acmicpc.net/problem/10989                
 * [좌표 정렬하기](sort/11650/Main.java)
     * https://www.acmicpc.net/problem/11650    
 * [좌표 정렬하기2](sort/11651/Main.java)
