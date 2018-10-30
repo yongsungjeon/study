@@ -138,7 +138,9 @@
 * [골드바흐의 추측](etc/6588/Main.java)
     * https://www.acmicpc.net/problem/6588    
 * [GCD 합](etc/9613/Main.java)
-    * https://www.acmicpc.net/problem/9613    
+    * https://www.acmicpc.net/problem/9613
+* [순열 사이클](etc/10451/Main.java)
+    * https://www.acmicpc.net/problem/10451        
 * [피보나치 수 5](etc/10870/Main.java)
     * https://www.acmicpc.net/problem/10870
 * [팩토리얼](etc/10872/Main.java)
