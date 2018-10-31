@@ -122,6 +122,10 @@
 * [좌표 정렬하기2](sort/11651/Main.java)
     * https://www.acmicpc.net/problem/11651          
 
+## 트리
+* [트리의 지름](tree/1967/README.md)
+    * https://www.acmicpc.net/problem/1967
+
 ## ETC
 * [팩토리얼 0의 개수](etc/1676/Main.java)
     * https://www.acmicpc.net/problem/1675
