@@ -51,6 +51,9 @@
 * [덱](deck/10866/Main.java)
     * https://www.acmicpc.net/problem/10866                
 
+## 배열
+* [음계](array/2920/README.md)
+    * https://www.acmicpc.net/problem/2920
 
 ## 다이나믹 프로그래밍
 * [1로 만들기](dp/1463/Main.java)
