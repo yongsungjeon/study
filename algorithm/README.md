@@ -125,6 +125,10 @@
 * [좌표 정렬하기2](sort/11651/Main.java)
     * https://www.acmicpc.net/problem/11651          
 
+## 검색
+* [수 찾기](search/1920/Main.java)
+    * https://www.acmicpc.net/problem/1920
+
 ## 트리
 * [트리의 지름](tree/1967/README.md)
     * https://www.acmicpc.net/problem/1967
