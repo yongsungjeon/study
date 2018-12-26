@@ -46,6 +46,8 @@
 ## 큐
 * [큐](queue/10845/Main.java)
     * https://www.acmicpc.net/problem/10845
+* [소수의 곱](queue/2014/READ.md)
+    * https://www.acmicpc.net/problem/2014    
 
 ## 덱    
 * [덱](deck/10866/Main.java)
@@ -132,6 +134,10 @@
 ## 트리
 * [트리의 지름](tree/1967/README.md)
     * https://www.acmicpc.net/problem/1967
+    
+## 재귀호출
+* [알약](recursivecall/4811/README.md)
+    * https://www.acmicpc.net/problem/4811    
 
 ## ETC
 * [팩토리얼 0의 개수](etc/1676/Main.java)
