@@ -10,6 +10,8 @@
 ### arrays
 * [OddOccurrencesInArray](codility/arrays/odd_occurrences_in_array/Main.java)
     * https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/
+* [CyclicRotation](codility/arrays/cyclic_rotation/Main.java)    
+      https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/
 
 ## BAKEJOON
 ### 출력
