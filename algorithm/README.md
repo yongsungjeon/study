@@ -7,6 +7,10 @@
 * [BinaryGap](codility/iterations/binaray_gap/Main.java)
     * https://app.codility.com/programmers/lessons/1-iterations/binary_gap/
 
+### arrays
+* [OddOccurrencesInArray](codility/arrays/odd_occurrences_in_array/Main.java)
+    * https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/
+
 ## BAKEJOON
 ### 출력
 * [A+B](baekjoon/output/1000/Main.java)
