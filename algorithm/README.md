@@ -11,7 +11,11 @@
 * [OddOccurrencesInArray](codility/arrays/odd_occurrences_in_array/Main.java)
     * https://app.codility.com/programmers/lessons/2-arrays/odd_occurrences_in_array/
 * [CyclicRotation](codility/arrays/cyclic_rotation/Main.java)    
-      https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/
+    * https://app.codility.com/programmers/lessons/2-arrays/cyclic_rotation/
+### time complexity
+* [ProgJmp](codility/time_complexity/frog_jmp/Main.java)
+    * https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/
+
 
 ## BAKEJOON
 ### 출력
