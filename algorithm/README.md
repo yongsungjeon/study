@@ -15,6 +15,10 @@
 ### time complexity
 * [ProgJmp](codility/time_complexity/frog_jmp/Main.java)
     * https://app.codility.com/programmers/lessons/3-time_complexity/frog_jmp/
+* [PermMissingElem](codility/time_complexity/perm_missing_elem/Main.java)
+    * https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/
+* [TapeEquilibrium](codility/time_complexity/tape_equilibrium/Main.java)    
+    * https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/
 
 
 ## BAKEJOON
