@@ -19,6 +19,14 @@
     * https://app.codility.com/programmers/lessons/3-time_complexity/perm_missing_elem/
 * [TapeEquilibrium](codility/time_complexity/tape_equilibrium/Main.java)    
     * https://app.codility.com/programmers/lessons/3-time_complexity/tape_equilibrium/
+### counting elements
+* [PermCHeck](codility/counting_elements/perm_check/Main.java)
+    * https://app.codility.com/programmers/lessons/4-counting_elements/perm_check/
+* [FrogRiverOne](codility/counting_elements/frog_river_one/Main.java)
+    * https://app.codility.com/programmers/lessons/4-counting_elements/frog_river_one/
+* [MaxCounters](codility/counting_elements/max_counters/Main.java)
+    * https://app.codility.com/programmers/lessons/4-counting_elements/max_counters/
+
 
 
 ## BAKEJOON
